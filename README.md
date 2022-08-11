@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... 
 - 🌱 I’m currently practicing ... JavaScript, React.js, Ruby/Rails, Postgresql
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... [email: samkcrespo@gmail.com, linkedIn: https://www.linkedin.com/in/samantha-crespo-84aa721a2/]
+- 📫 How to reach me ... [email: samkcrespo@gmail.com, linkedIn: https://www.linkedin.com/in/samantha-crespo-tech/]
 
 <!---
 samkcrespo/samkcrespo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
