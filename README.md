@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @samkcrespo
 - 👀 I’m interested in ... Coding, Nature, Travel, Social Activism, Supporting Women, Women Empowerment
-- 🌱 I’m currently practicing ... JavaScript, React.js, Ruby/Rails, Postgresql
-- 💞️ I’m looking to collaborate on ...  social justice projects, social change projects, green & sustainability
+- 👩🏼‍💻 My Skills ... JavaScript, React.js, Ruby/Rails, Postgresql, SQLite
+- 🌱 I’m currently practicing ... C#, .NET, Vue.js
+- 💞️ I’m looking to collaborate on ...  social justice projects, social change projects, green & sustainability projects
 - 📫 How to reach me ... [email: samkcrespo@gmail.com, linkedIn: https://www.linkedin.com/in/samantha-crespo-tech/]
 
 <!---
